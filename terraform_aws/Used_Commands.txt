@@ -1,0 +1,76 @@
+  172  mkdir terraform_aws
+  173  ls
+  174  celar
+  175  clear
+  176  aws s3 ls
+  177  sudo apt install cli
+  178  sudo apt install awscli
+  179  aws s3 ls
+  180  aws configure
+  181  aws s3 ls
+  182  export 
+  183  export AWS_KEY_ID= [enter]
+  184  export AWS_SECRET_ACCESS_KEY=[enter]
+  185  clear
+  186  vim main.tf
+  187  ls
+  188  rm -r main.tf 
+  189  ls
+  190  cd terraform_aws/
+  191  ls
+  192  vim main.tf
+  193  sudo su
+  194  ls
+  195  cd terraform_code/
+  196  ls
+  197  cd terraform_aws/
+  198  ls
+  199  cat terraform.tfstate 
+  200  cd terraform_code/
+  201  ls
+  202  cd terraform_aws/
+  203  ls
+  204  vim main.tf 
+  205  terraform apply
+  206  vim main.tf 
+  207  terraform apply
+  208  l
+  209  sls
+  210  clear
+  211  terraform init
+  212  terraform plan
+  213  sudo chown -R ubuntu:ubuntu /home/ubuntu/terraform_code/terraform_aws
+  214  rm .terraform.tfstate.lock
+  215  rm .terraform.tfstate
+  216  rm terraform.tfstate
+  217  terraform plan -lock=false
+  218  clear
+  219  terraform init
+  220  ls
+  221  terraform plan
+  222  terraform apply
+  223  vim main.tf 
+  224  terraform apply
+  225  vim main.tf 
+  226  terraform apply
+  227  ls
+  228  cd terraform_code/
+  229  ls
+  230  cd terraform_aws/
+  231  ls
+  232  vim main.tf 
+  233  terraform apply
+  234  vim main.tf 
+  235  vim m
+  236  ls
+  237  rm m
+  238  ls
+  239  clear
+  240  vim main.tf 
+  241  terraform apply
+  242  terraform distroy
+  243  terraform destroy	#It destroy everything jo ki humne terraform ki help se banaya hai
+  244  clear
+  245  ls
+  246  vim Used_Commands.txt
+  247  history
